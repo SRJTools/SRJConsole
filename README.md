@@ -17,7 +17,7 @@ Everything runs in your browser. No backend. No telemetry. No data ever leaves y
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/live-demo-a3e635?style=for-the-badge&logo=githubpages&logoColor=070907)](https://SRJTools.github.io/cipher-console/)
+[![Live Demo](https://img.shields.io/badge/live-demo-a3e635?style=for-the-badge&logo=githubpages&logoColor=070907)](https://SRJTools.github.io/SRJConsole/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-4dd0c9?style=for-the-badge)](LICENSE)
 [![Made with Vanilla JS](https://img.shields.io/badge/vanilla-JS-ffb13b?style=for-the-badge&logo=javascript&logoColor=070907)](#)
 
