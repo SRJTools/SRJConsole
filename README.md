@@ -146,7 +146,7 @@ Released under the [MIT License](LICENSE). Free to use, modify, and distribute.
 Security Analyst · DFIR · Jordan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1c241c?style=flat-square&logo=linkedin&logoColor=a3e635)](https://www.linkedin.com/in/sohaibjadallah)
-[![GitHub](https://img.shields.io/badge/GitHub-1c241c?style=flat-square&logo=github&logoColor=a3e635)](https://github.com/SohaibJadAllah)
+[![GitHub](https://img.shields.io/badge/GitHub-1c241c?style=flat-square&logo=github&logoColor=a3e635)](https://github.com/SRJTools)
 
 <sub>`operator@cipher:~$` — built local, runs local.</sub>
 
